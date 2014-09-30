@@ -17,8 +17,8 @@
 
 
 
-$(document).ready(function(){
-  $("body").toggleClass("wait");
-});
-
+//$(document).ready(function(){
+//  $("body").toggleClass("wait");
+//});
+//
 
